@@ -1,0 +1,6 @@
+@WebApiS3Integration_HostAddress = http://localhost:5299
+
+GET {{WebApiS3Integration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
